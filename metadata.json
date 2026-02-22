@@ -1,0 +1,5 @@
+{
+  "name": "CareerPulse - AI Job Matcher",
+  "description": "Upload your resume and find the most relevant, verified job openings from the last 24-72 hours using AI-powered matching.",
+  "requestFramePermissions": []
+}
